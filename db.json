@@ -1,0 +1,34 @@
+{
+  "createUser": [
+    {
+      "username": "fatima",
+      "age": "22",
+      "email": "fatimadeshmukh",
+      "id": 1
+    },
+    {
+      "username": "sakshi",
+      "age": "24",
+      "email": "sakshirai",
+      "id": 4
+    },
+    {
+      "username": "sarah",
+      "age": "24",
+      "email": "sarahmohan",
+      "id": 10
+    },
+    {
+      "username": "manish",
+      "age": "22",
+      "email": "manishreddy",
+      "id": 11
+    },
+    {
+      "username": "fatima",
+      "age": "",
+      "email": "",
+      "id": 12
+    }
+  ]
+}
